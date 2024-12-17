@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codingelephants-gpt
 - 👀 I’m interested in making an operating system.
 - 🌱 I’m currently learning HTML, Python and C#
-- 💞️ I’m looking for someone to collaborate on my project KeySuite!
+- 💞️ I’m looking for someone to collaborate on my project called: "KeySuite" 
 - 📫 How to reach me: You cant!
 - 😄 Pronouns: I have none!
 - ⚡ Fun fact: I like elephants? I guess.
